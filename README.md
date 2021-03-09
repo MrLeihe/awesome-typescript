@@ -4,7 +4,7 @@
 
 关于 `compilerOptions` 选项
 
-```json
+```javascript
 {
   "compilerOptions": {
     /* 基本选项 */
