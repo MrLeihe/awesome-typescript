@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "System",
+    "target": "ES2015",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "./dist",
+    "sourceMap": false,
+    "experimentalDecorators": true
+  },
+  "exclude": ["dist/"],
+  "include": ["src/**/*"]
+}
